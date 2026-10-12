@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/bouthyabattu/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/bouthyabattu/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/bouthyabattu/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/bouthyabattu/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -49,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/bouthyabattu/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/bouthyabattu/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/bouthyabattu/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
